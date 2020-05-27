@@ -1,0 +1,8 @@
+{
+  "name": "WebScraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:klavenjones/WebScraper.git",
+  "author": "Klaven Jones <klavensjones@gmail.com>",
+  "license": "MIT"
+}
